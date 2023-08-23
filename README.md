@@ -2,7 +2,7 @@
 - 🧡 Programming interests me.
 - 📈 Currently I'm learning few data structures and maths.
 - 🤲 Looking for someone to pair program with me.
-- 📫 Reach me via mail@sourin.in
+- 📫 Reach me via work@sourin.in
  
 <!---
 sourinsarkar/sourinsarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

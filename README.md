@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sourin
-- 🧡 Programming interests me.
-- 📈 Currently I'm learning few data structures and maths.
+- ✓ L👀king to connect with people who like to build stuff.
+- 📈 Currently I'm learning Golang and algorithms.
 - 🤲 Looking for someone to pair program with me.
 - 📬 You can reach me at work@sourin.in
  
